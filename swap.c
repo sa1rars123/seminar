@@ -14,6 +14,7 @@ int main(void)
     x = y;
     y = temp;
 
+    //variables have been swapped. Now let's print the swapped values
     printf("x is now: %i\n", x);
     printf("y is now: %i\n", y);
 }
