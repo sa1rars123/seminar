@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int x = 36;
+    int x = 51;
     int y = 74;
     int temp = 0; //temp variable for swapping
 
